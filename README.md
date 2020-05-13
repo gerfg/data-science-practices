@@ -2,4 +2,4 @@
 
 Exercises done while studying and practing udemy courses and books.
 
-- [Udemy Course] Python for data science and machine learning boot camp
+- **[Udemy Course]** Python for data science and machine learning boot camp
